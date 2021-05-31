@@ -20,4 +20,6 @@ You've made it to the PR stage! Please fill out the checklist below and provide 
 
 ### Description ###
 
-Please provide a description of the problem you're solving, and an overview of the solution. And remember: PR's may be temporary, but toast is forever.
+Please provide a description of the code written. 
+
+For example, if you have fixed a bug: explain the bug, what was causing it, and how you fixed it. 
